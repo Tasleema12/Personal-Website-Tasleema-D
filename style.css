@@ -1,0 +1,32 @@
+h1{
+   
+  font-family: "Sekuya", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h2{
+    text-align: center;
+}
+span{
+    color:indigo;
+}
+.first-page{
+    background-color: rgb(31, 140, 104);
+
+}
+.profile-pic{
+    border-radius: 50%;
+}
+
+#about-me{
+    font-family: "Sekuya", system-ui;
+  font-weight: 200;
+  font-style: normal;
+  text-align: center;
+
+}
+
+.footer{
+    background-color:rgb(31, 140, 104) ;
+}
